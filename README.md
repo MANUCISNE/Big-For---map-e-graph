@@ -45,7 +45,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Images - libs (map and graph)
+## Images - libs (graph and map)
 
 ![Recharts e Leaflet pdf](https://user-images.githubusercontent.com/117774887/225077026-b039f663-88b0-4a75-b778-82ce450c0059.png)
 
