@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+  margin: 2rem;
+  padding: 2rem;
+  box-sizing: border-box;
+  background-color: #8d8d99;
+  border-radius: 8px;
+}
+
+.bigfor {
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 4rem;
+  color: azure;
+}
+
+header button {
+  background-color: transparent;
+  border: 0;
+  color: black;
+  cursor: pointer;
+  font-size: 0;
+  border-radius: 4px;
+  padding: 3rem;
+}
+
+header button:hover {
+  color: whitesmoke;
+}
+
+button:active {
+  color: red;
+}
+
+button {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+}
